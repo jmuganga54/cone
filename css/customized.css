@@ -1,0 +1,35 @@
+.or>h3,
+.or-group>h3 {
+    color: black;
+}
+
+.or>h4,
+.or-group>h4 {
+
+    color: black;
+}
+
+.or-group:not(.or-appearance-no-collapse)>h4::before {
+
+    border-top: 12px solid #309219;
+
+}
+
+.required {
+    color: #309219;
+}
+
+.btn,
+.vex.vex-theme-plain .vex-dialog-button {
+
+    background-color: #309219;
+    border-color: white;
+
+}
+
+.offline-enabled__icon {
+
+    background-color: #309219;
+
+
+}
