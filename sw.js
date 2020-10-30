@@ -2,8 +2,7 @@
   const cacheName = 'v1'; //cache name
 
   //creating an array to be cached which contain all the resources
-  const cacheAssets = [
-  'index.html',   
+  const cacheAssets = [ 
   '/css/theme-grid.css',
   '/css/theme-main.css',
   '/css/customized.css',
@@ -11,6 +10,9 @@
   '/fonts/OpenSans-Bold-webfont.woff',
   '/fonts/OpenSans-Regular-webfont.woff',
   '/images/icon_180x180.png',
+  'js/main.js',
+  'index.html',
+
 
 
 ];
