@@ -1,0 +1,18 @@
+{
+    "short_name": "coneBioassay",
+    "name": "Cone Bioassay Data Sheet 1/3",
+    "description": "Sheet for Collecting Cone Bioassay Data",
+    "icons": [
+      {
+        "src": "/images/icon_180x180.png",
+        "type": "image/png",
+        "sizes": "108x108"
+      }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#3367D6"
+    
+  }
